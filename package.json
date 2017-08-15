@@ -1,0 +1,20 @@
+{
+  "name": "blairEstheticians",
+  "version": "1.0.0",
+  "description": "a site experience for Blair Estheticians",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mblair415/blairEstheticians.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mblair415/blairEstheticians/issues"
+  },
+  "homepage": "https://github.com/mblair415/blairEstheticians#readme"
+}
